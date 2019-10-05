@@ -21,3 +21,4 @@ print(session.run(fetches=y_outpout,feed_dict={x:[4.0,5.0,6.0,7.0]}))
 
 
 
+
